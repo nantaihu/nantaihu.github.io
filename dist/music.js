@@ -5,13 +5,13 @@ const ap = new APlayer({
     audio: [
       {
         name: "最重要的小事",
-        artist: '徐梦圆',
+        artist: '五月天',
         url: 'http://www.ytmp3.cn/down/52243.mp3',
         cover: 'https://wx4.sinaimg.cn/mw690/957bcbf4gy1fuphwh04mhj20ku0jy768.jpg',
       },
       {
         name: '私奔到月球',
-        artist: '麦小兜',
+        artist: '五月天',
         url: 'http://www.ytmp3.cn/down/52244.mp3',
         cover: 'https://wx4.sinaimg.cn/mw690/957bcbf4gy1fuphwh04mhj20ku0jy768.jpg',
       },
